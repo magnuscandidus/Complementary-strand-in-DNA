@@ -1,6 +1,6 @@
 # Complementary-strand-in-DNA
 # cook your dish here
-for t in range int(input()):
+for t in range (int(input())):
     a = int(input())
     b = str(input())
     for i in b:
